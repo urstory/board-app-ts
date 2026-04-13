@@ -1,6 +1,6 @@
 import type { User, LoginResponse, Post, PostSummary, PageResponse, Comment, ApiResponse } from './types'
 
-const BASE_URL = '/api/edu/ws-283fc1'
+const BASE_URL = 'https://api.fullstackfamily.com/api/edu/ws-283fc1'
 
 // === 토큰/유저 관리 ===
 
